@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Flutter-blue" alt="Platform">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
 </p>
 
 🚀✨ Excited to introduce the TodoList App - an advanced Todo List app crafted with Flutter! 📱 Manage tasks effortlessly with style and ease.
